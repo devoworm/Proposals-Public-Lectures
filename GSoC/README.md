@@ -18,4 +18,4 @@ Ideas for Google Summer of Code:
 
 5) Multicell systems: use current work on multicell systems to crete a generative program that will produce new phenotypes according to rules and evaluate each new phenotype using Euler path analysis. 
 
-* further analysis by using a phylogenetic framework. Phenotypes that are not Euler complete form new clades with $n+1$ modules.
+* further analysis by using a phylogenetic framework. Phenotypes that are not Euler complete form new clades with _n_+1 modules.
