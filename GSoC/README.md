@@ -2,7 +2,7 @@
 
 **1)** Morphozoic advancement: applying pattern formation to lineage trees, heterochrony, and spatial patterns.  
 
-* check out Tom's new paper; he uses deep learning + behavioral primitives to produce/classify output.  
+* check out [Tom's new paper](https://www.biorxiv.org/content/early/2018/11/30/478750); he uses deep learning + behavioral primitives to produce/classify output.  
 
 * can we use a dynamic lineage tree (aka a computationally-friendly pattern generating tree) as a means to constrain/classify morphozoic (nested CA) output?
 
