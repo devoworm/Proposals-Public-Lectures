@@ -2,6 +2,10 @@
 
 **1)** Morphozoic advancement: applying pattern formation to lineage trees, heterochrony, and spatial patterns.  
 
+* check out Tom's new paper; he uses deep learning + behavioral primitives to produce/classify output.  
+
+* can we use a dynamic lineage tree (aka a computationally-friendly pattern generating tree) as a means to constrain/classify morphozoic (nested CA) output?
+
 **2)** second step in GSoC 2017: create masks for segmentation of microscopy images and movies using GSoC 2017 ImageJ plug-in as a base.  
 
 **3)** second step in GSoC 2018: create a visualization skin for GSoC 2018 project. Focus on networks and 3-D modeling.  
