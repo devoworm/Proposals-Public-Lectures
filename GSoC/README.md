@@ -20,6 +20,8 @@
 
 * do we use a genetic representation?
 
-5) Multicell systems: use current work on multicell systems to crete a generative program that will produce new phenotypes according to rules and evaluate each new phenotype using Euler path analysis. 
+**5)** Multicell systems: use current work on multicell systems to crete a generative program that will produce new phenotypes according to rules and evaluate each new phenotype using Euler path analysis.  
 
-* further analysis by using a phylogenetic framework. Phenotypes that are not Euler complete form new clades with _n_+1 modules.
+* further analysis by using a phylogenetic framework. Phenotypes that are not Euler complete form new clades with _n_+1 modules.  
+
+For bullet points 4 and 5, please see this [paper on Figshare](https://figshare.com/articles/On_Braitenberg_s_Vehicles_Compound_Polygons_and_Evolutionary_Developmental_Structural_Complexity/4497107).
