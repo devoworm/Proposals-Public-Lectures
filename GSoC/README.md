@@ -6,7 +6,11 @@
 
 * can we use a dynamic lineage tree (aka a computationally-friendly pattern generating tree) as a means to constrain/classify morphozoic (nested CA) output?
 
-**2)** second step in GSoC 2017: create masks for segmentation of microscopy images and movies using GSoC 2017 ImageJ plug-in as a base.  
+**2)** second step in GSoC 2017: create masks for segmentation of microscopy images and movies using GSoC 2017 ImageJ plug-in as a base. 
+
+* use an approach such as semantic or instance segmentation (identify objects being segmented, or identify instances of objects being segmented).
+
+* use fully convolutional networks (FCN) or region-based convolutional neural network (R-CNN). 
 
 **3)** second step in GSoC 2018: create a visualization skin for GSoC 2018 project. Focus on networks and 3-D modeling.  
 
