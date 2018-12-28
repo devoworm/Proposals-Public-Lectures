@@ -1,4 +1,4 @@
-## GSoC Project: Semantic Image Processing for Developmental Data Science  
+### GSoC Project: Semantic Image Processing for Developmental Data Science  
 
 
 **Description:**  
