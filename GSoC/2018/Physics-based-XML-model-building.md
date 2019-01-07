@@ -6,4 +6,4 @@
 
 **Skills:** open source development experience with languages such as XML, C++, and Python. An interest in the underlying biological processes is essential, and applicants with strong abstract thinking abilities are preferred. This involves a willingness to take a "whatever works, works" philosophy, and encourage critical thinking. Good communication skills and familiarity with open science practices are expected.
 
-**Mentor:** Bradly Alicea [balicea@openworm.org](balicea@openworm.org)
+**Mentor:** Bradly Alicea [balicea@openworm.org](mailto:balicea@openworm.org)
