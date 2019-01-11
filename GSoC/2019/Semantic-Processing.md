@@ -7,7 +7,7 @@
 **Aims:**  The goal of this project will be to create a semantic segmentation library that can be used to either augment directly or complement the ImageJ plugin. Rather than a easy-to-use tool that is geared towards the analysis of developmental data, the next step will involve refining the feature identification capacity of our segmented images. The applicant will work with the [DevoWorm group](https://devoworm.weebly.com) to determine a feature space relevant to a specific set of research questions and potential applications. The analytical approach can take one of two directions: Semantic and Instance Segmentation or Region Proposal Networks/Fast Convolutional Neural Networks. Both of these approaches are state-of-the-art methods in this area, and would provide the applicant with a solid research experience in applied algorithmics and data science.  
 
 
-**Skills:** open source development experience with C++, Python, Java. Some prior experience in data science would be helpful. An interest in the underlying biological processes is essential. Applicants with good communication skills and familiarity with open science practices are expected.  
+**Skills:** open source development experience with C++, Python, Java. Some prior experience in data science and/or machine learning would be helpful. An interest in the underlying biological processes is essential. Applicants with good communication skills and familiarity with open science practices are expected.  
 
 
 **Mentor:** Bradly Alicea   ([balicea@openworm.org](mailto:balicea@openworm.org))  
