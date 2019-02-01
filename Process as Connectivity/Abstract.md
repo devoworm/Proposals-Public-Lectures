@@ -1,12 +1,12 @@
 ## Process as Connectivity: models of interaction in cellular systems  
-### Bradly Alicea<sup>1,2</sup> DevoWorm Group<sup>2</sup>  
+#### Bradly Alicea<sup>1,2</sup> DevoWorm Group<sup>2</sup>  
 <sup>1</sup> Orthogonal Research Laboratory, <sup>2</sup> OpenWorm Foundation  
 
 KW: Interactome, Caenorhabditis elegans, Embryogenesis, Development, Data Science, Computational Modeling  
 
 Does the extant connectome tell us all we need to know about an organism’s nervous system? The answer to this question can be found in the embryo and the developmental origins of the connectome itself. In exploring this question, we will establish a connection between the embryonic interactome networks of C. elegans and developmental cell sublineages [1, 2]. This will establish the role of multiple cellular-level networks in the developmental process. To demonstrate how each of these processes contribute to the adult connectome, we employ a series of secondary datasets derived from microscopy of the embryo [3] and adult nervous system [4]. These data are integrated using a five-dimensional spatial representation (_x,y,z,t,i_), where _t_ is depth in the lineage tree/developmental time and _i_ is a cell’s location in a lineage tree/differentiated state [5].  
 
-	Despite the discontinuity of these empirical observations, we can nevertheless identify potential functional relationships between a generic developmental cell interactome network and an emerging neuronal network (connectome). Of particular interest are temporal relationships between newly-differentiating cells and growth of the connectome also become apparent. This information is useful in the content of integrating network topologies with developmental time series. Taken collectively, these comparisons yield information regarding relationships between developmental lineages, differentiation, and connectivity.  
+Despite the discontinuity of these empirical observations, we can nevertheless identify potential functional relationships between a generic developmental cell interactome network and an emerging neuronal network (connectome). Of particular interest are temporal relationships between newly-differentiating cells and growth of the connectome also become apparent. This information is useful in the content of integrating network topologies with developmental time series. Taken collectively, these comparisons yield information regarding relationships between developmental lineages, differentiation, and connectivity.  
 
 #### References: 
 [1] DevoWorm Group and Alicea, B. (2017). The emergent connectome in Caenorhabditis elegans embryogenesis. _Biosystems_, 173, 247-255.
