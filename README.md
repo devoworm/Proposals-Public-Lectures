@@ -2,9 +2,13 @@
 
 ### This reprository is for grant, paper, and internal OpenWorm proposal brainstorming.     
 
-* Google Summer of Docs proposals from 2017 to 2019.  
+* Google Summer of Docs proposals from (2017-2019).  
 
-* "Developing the Worm" lecture (2014).  
+* Google Season of Docs proposals from (2019).
+
+* "Developing the Worm" lecture (2014).
+
+* "Network Architecture Of Embryo Developmental Regulation" talk (2017).
 
 * "Developing Models of the DevoWorm" lecture (2015).  
 
