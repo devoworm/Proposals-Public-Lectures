@@ -3,13 +3,10 @@ The DevoWorm group is focused on understanding embryogenesis and other developme
 Selected references for the talk:
 [1] [Project website](http://devoworm.weebly.com)
 
-[2] Alicea, B., McGrew, S., Gordon, R., Larson, S., Warrington, T., & Watts, M. (2014). [DevoWorm: differentiation waves and computation in _C. elegans_ embryogenesis](http://www.biorxiv.org/content/biorxiv/early/2014/10/03/009993). bioRxiv, 009993.
+[2] Alicea, B., McGrew, S., Gordon, R., Larson, S., Warrington, T., & Watts, M. (2014). [DevoWorm: differentiation waves and computation in _C. elegans_ embryogenesis](http://www.biorxiv.org/content/biorxiv/early/2014/10/03/009993). _bioRxiv_, 009993.
 
-[3] Alicea, B. and Gordon, R. (2016). Quantifying Mosaic Development: Towards an Evo-Devo Postmodern Synthesis of the Evolution of Development Via Differentiation Trees of Embryos. Biology (Special Issue: beyond the modern evolutionary synthesis). Submitted.
-https://drive.google.com/file/d/0B7RsqJbITXXATWZrV2xUMVJhczA/view?usp=sharing
+[3] Alicea, B. and Gordon, R. (2016). [Quantifying Mosaic Development: Towards an Evo-Devo Postmodern Synthesis of the Evolution of Development Via Differentiation Trees of Embryos](https://www.mdpi.com/2079-7737/5/3/33). Biology (Special Issue: beyond the modern evolutionary synthesis). _Biology_, 5(3), 33.
 
-[4] Alicea, B. and Gordon, R.  Ciona intestinalis Embryonic Differentiation Tree (1- to 112-cell stage). doi: 10.6084/m9.figshare.2117152
-https://figshare.com/articles/C_elegans_Embryonic_Differentiation_Tree_10_division_events_/2118049
+[4] Alicea, B. and Gordon, R.  [_Ciona intestinalis_ Embryonic Differentiation Tree (1- to 112-cell stage)](https://figshare.com/articles/C_elegans_Embryonic_Differentiation_Tree_10_division_events_/2118049). doi: 10.6084/m9.figshare.2117152.
 
-Alicea, B. and Gordon, R.  Caenorhabditis elegans Embryonic Differentiation Tree (10 division events). doi:10.6084/m9. figshare.2118049.
-https://figshare.com/articles/C_intestinalis_Embryonic_Differentiation_Tree_1_to_112_cell_stage_/2117152
+Alicea, B. and Gordon, R.  [_Caenorhabditis elegans_ Embryonic Differentiation Tree (10 division events)](https://figshare.com/articles/C_intestinalis_Embryonic_Differentiation_Tree_1_to_112_cell_stage_/2117152). doi:10.6084/m9.figshare.2118049.
