@@ -8,9 +8,11 @@
 
 * "Developing the Worm" lecture (2014).
 
+* "DevoWorm: developing models of the (Open) Worm" (2015).
+
 * "Network Architecture Of Embryo Developmental Regulation" talk (2017).
 
-* "Developing Models of the DevoWorm" lecture (2015).  
+* "Developing the worm, Ascidian, graph, digital embryo" lecture (2016).  
 
 * "Processes as Connectivity" lecture (2018).  
 
