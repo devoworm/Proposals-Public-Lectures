@@ -31,7 +31,7 @@ a. Creating a new version of the http://docs.openworm.org site, currently hosted
 
 b. If time allows, these are additional topics to address:  
 
-c. Website redesign so as to make it easy to find key information (e.g. people, how to get to Slack, Github, Docker and Blender models).    
-d. Help with the educational curriculum.  
+c. Website redesign so as to make it easy to find key information (e.g. people, how to get to Slack, Github, Docker and Blender models).      
+d. Help with the educational curriculum (OW-DW educational curriculum, digital badges).  
 
 **Contacts:** Bradly Alicea [balicea@openworm.org](mailto:balicea@openworm.org), Stephen Larson [stephen@openworm.org](mailto:stephen@openworm.org), Chee Wai Lee [cheelee@openworm.org](mailto:cheelee@openworm.org). We will form a mentoring team to guide you through the process.  
