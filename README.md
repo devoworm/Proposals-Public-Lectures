@@ -18,6 +18,10 @@
 
 * "A New Kind of Developmental Neuroscience" lecture (2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/New%20Kind%20of%20Developmental%20Neuroscience)
 
+* "Version Control for Distributed Science" lecture (2019). [link]()  
+
+* "On Expansion, Speed, and Form" lecture (2019). [link]()
+
 * "OpenWorm-DevoWorm Curriculum Development" project overview for the Mozilla Open Leaders program (2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/OW-DW%20Curriculum)
 
 * assorted grant and event proposals. [link](https://devoworm.weebly.com/publications.html)
