@@ -20,7 +20,7 @@
 
 * "Version Control for Distributed Science" lecture (2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Version%20Control%20for%20Distributed%20Science)  
 
-* "On Kluginess, Speed, and Form" lecture (2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/On%20Expansion%2C%20Speed%2C%20and%20Form)
+* "On Kluginess, Speed, and Form" lecture (2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/On%20Kluginess%2C%20Speed%2C%20and%20Form)
 
 * "OpenWorm-DevoWorm Curriculum Development" project overview for the Mozilla Open Leaders program (2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/OW-DW%20Curriculum)
 
