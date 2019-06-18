@@ -1,1 +1,6 @@
-Modify the abstract [here](https://github.com/devoworm/Developmental-Incongruities-and-Heterochrony/blob/master/talk-abstract.md)
+## On Kluginess, Speed, and Form
+
+The metazoan embryo is known for its repeatability in terms of positioning and polarity. Placed in the context of an epigenetic landscape, embryonic development follows well-established canals that ensure a consistent unfolding from a spherical mass of cells to an organism of great geometric variety. Despite these buffering mechanisms, there are three active processes (kluginess, speed, and form) that underpin a seemingly deterministic embryongenesis. Kluginess refers to the inchoate design and loose coordination between parts of the whole developing organism. The product of natural selection interacting with vestigal structure, kluginess can provide material for future adaptation. The speed of development, characterized by heterochronic trajectory, helps to coordinate potential spatial and modular heterogeneity within the embryo. Finally, the concept of form can be used to describe the physical attributes of embryogenesis, particularly the integration of signaling mechanisms and the physical forces between cells. This leads us to the proposition that decoupling the functioning of these concepts can lead to highly variable embryogenesis. While this variability may not be biologically plausible, it might provide a means to understand large-scle changes in embryogenesis across taxa.
+
+
+
