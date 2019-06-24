@@ -1,0 +1,1 @@
+An exposition of work being done in the [Digital Bacillaria](https://github.com/devoworm/Digital-Bacillaria) project and the [Multicell Systems](https://github.com/Orthogonal-Research-Lab/Multicell-systems) initiative.
