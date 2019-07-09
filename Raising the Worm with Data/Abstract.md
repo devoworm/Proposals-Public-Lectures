@@ -2,7 +2,7 @@
 
 Bradly Alicea<sup>1</sup>, Stephen Larson<sup>2</sup>, Steve McGrew<sup>3</sup>, Richard Gordon<sup>4</sup>
 
-<sup>1</sup>Crop Sciences, University of Illinois Urbana-Champaign, balicea@illinois.edu; <sup>2</sup>MetaCell, La Jolla CA USA; <sup>3</sup> New Light Industries, Ltd., Spokane, WA USA; <sup>4</sup>Gulf Specimen Aquarium & Marine Lab, Panacea, FL
+<sup>1</sup>Crop Sciences, University of Illinois Urbana-Champaign, balicea@openworm.org; <sup>2</sup>MetaCell, La Jolla CA USA; <sup>3</sup> New Light Industries, Ltd., Spokane, WA USA; <sup>4</sup>Gulf Specimen Aquarium & Marine Lab, Panacea, FL
 
 DevoWorm [1] is a distributed collaboration and associated with the OpenWorm project [2]. DevoWorm is focused on leveraging meta-analysis and computational modeling to better understand C. elegans embryogenesis by synthesizing the existing knowledge-base. We will provide a broad overview of the project goals, which conssist of three parts:
 
