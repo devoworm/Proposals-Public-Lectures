@@ -1,1 +1,10 @@
+## Developmental pre-trained model
+This project will center around building a pre-trained model for developmental biology. Our organization's Machine Lerning intetrest group (DevoWormML) has published a blog post [1] on the advantages and need for pre-trained models in this area. In short, biological development is characterized by characteristic shapes, movements, changes in shape, and temporal processes that define important features. Pre-trained models are used in NLP and Deep Learning for the domains of language processing (GPT-2) and generic bounding boxes in complex images (DeepLabv3), but not for biology. A suitable pre-trained model would greatly reduce the need for input data without sacrificing the ability to generalize to different contexts. 
 
+Our main interest is in extracting spatiotemporal features from image data. For a typical pre-trained model, the network is pre-trained with non-random weights that approximate the generalized versions of the features we would like to discover. However, we are also interested in a semantic component, particularly the ability to incorporate elements of both ontological semantics (meaning assigned to static knowledge) and polysemy (multiple meanings for a single feature). This will enable relational modeling and the mapping of segmented image data to lineage trees and taxonomies. 
+
+As a student, you will become a contributor at the OpenWorm Foundation, where we are attempting to build a virtual organism. You will learn about developmental neurobiology, and join the DevoWorm group. OpenWorm has an active interest in data science, and DevoWorm in particular has an active interest in machine learning research and education. 
+
+## References:
+
+[1] Blogpost on pre-trained models: https://thenode.biologists.com/pre-trained-machine-learning-models-for-developmental-biology/uncategorized/
