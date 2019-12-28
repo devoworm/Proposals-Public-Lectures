@@ -6,7 +6,7 @@ Our main interest is in extracting spatiotemporal features from image data. We w
 
 As a student, you will become a contributor at the OpenWorm Foundation, where we are attempting to build a virtual organism. You will learn about developmental neurobiology, and join the DevoWorm group. OpenWorm has an active interest in data science, and DevoWorm in particular has an active interest in machine learning research and education. We seek someone with experience with programming languages C++ and Python, and a machine learning platform such as TensorFlow or Keras.
 
-Mentor: Bradly Alicea (balicea@openworm.org), OpenWorm Foundation (https://openworm.org).
+Mentor: Bradly Alicea (balicea@openworm.org) and Stephen Larson (stephen@openworm.org), OpenWorm Foundation (https://openworm.org).
 
 ### NOTES
 [1] Blogpost on pre-trained models: https://thenode.biologists.com/pre-trained-machine-learning-models-for-developmental-biology/uncategorized/
