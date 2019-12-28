@@ -1,4 +1,4 @@
-## OpenDevoCell Development
+## OpenDevoCell Integration
 
 This project will focus on improving the data science and machine learning infrastructure of the DevoWorm group. The work will focus on an extension of the Summer of Code projects completed in 2017 [1] and 2019 [2]. The first two aims are to improve upon the OpenDevoCell web interface (https://open-devo-cell.herokuapp.com/) and to improve segmentation techniques overall. While the OpenDevoCell interface has been implemented as a Heroku app, we would like to develop a dashboard for interpretation as well as tighter integration with DevoZoo's (https://devoworm.github.io/devozoo.htm) collection of open-source microscopy data. The third aim is to deploy the code package as a unified Python library, which would be done in concert with the improvement of segmentation techniques. 
 
