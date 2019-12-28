@@ -7,7 +7,7 @@ As a student, you will become a contributor at the OpenWorm Foundation, where we
 
 Mentor: Bradly Alicea (balicea@openworm.org), OpenWorm Foundation (https://openworm.org).
 
-## References
+### NOTES
 [1] Blogpost on pre-trained models: https://thenode.biologists.com/pre-trained-machine-learning-models-for-developmental-biology/uncategorized/
 
 [2] Crawford-Young, S.J., Dittapongpitch, S., Gordon, R., and Harrington, K.I.S. (2018). [Acquisition and reconstruction of 4D surfaces of axolotl embryos with the flipping stage robotic microscope](https://www.sciencedirect.com/science/article/pii/S0303264718302995). _Biosystems_, 173, 214-220. doi:10.1016/j.biosystems.2018.10.006.
