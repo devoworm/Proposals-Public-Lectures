@@ -6,7 +6,7 @@ The priority for this Summer is to improve the web interface both in terms of in
 
 These improvements are meant to increase participation in our open science initiative and make sophisticated analytical techniques more accessible to students and potential collaborators alike. We are looking for someone who can work with programming tools, including HTML/CSS, TensorFlow, ReactJS, and Python. Improvements to segmentation performance might include the implementation of a pre-trained model such as Deeplab [3] or a means to plug in new components as they are developed. As a student, you will join the DevoWorm group, a project within the OpenWorm Foundation (http://openworm.org/), where we are trying to build the world's first virtual organism. 
 
-Mentor: Vinay Varma (vinay.n.varma189@gmail.com) and Bradly Alicea (balicea@openworm.org), OpenWorm Foundation.
+Mentor: Bradly Alicea (balicea@openworm.org) and Vinay Varma (vinay.n.varma189@gmail.com), OpenWorm Foundation.
 
 ### NOTES:
 [1] Siddharth Yadav, 2017:
