@@ -41,7 +41,7 @@ Despite the discontinuity of these empirical observations, we can potentially id
 </p>
   
 <p align="center">
-  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Neuromatch/Slides/Slide610.png"><BR>
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Neuromatch/Slides/Slide10.png"><BR>
 </p>
   
 <p align="center">
