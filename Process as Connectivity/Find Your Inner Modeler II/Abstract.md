@@ -18,3 +18,139 @@ Despite the discontinuity of these empirical observations, we can nevertheless i
 [4] Varshney, L.R. et.al (2011). Structural properties of the Caenorhabditis elegans neuronal network. _PLoS Computational Biology_, 7(2), e1001066.
 
 [5] Alicea, B. and Gordon, R. (2016). Quantifying Mosaic Development: towards an evo-devo postmodern synthesis of the evolution of development via differentiation trees of embryos. _Biology_, 5(3), 33. 
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide1.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide2.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide3.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide4.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide5.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide6.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide7.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide8.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide9.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide10.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide11.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide12.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide13.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide14.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide15.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide16.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide17.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide18.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide19.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide20.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide21.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide22.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide23.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide24.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide25.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide26.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide27.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide28.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide29.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide30.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide31.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide32.png"><BR>
+</p>
+  
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide33.png"><BR>
+</p>
+
+<p align="center">
+  <img width="960" height="540" src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Process%20as%20Connectivity/Find%20Your%20Inner%20Modeler%20II/Slides/Slide34.png"><BR>
+</p>
