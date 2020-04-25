@@ -3,6 +3,6 @@ Baianu, I.C. (2006). Robert Rosen's Work and Complex Systems Biology. _Axiomathe
 
 Rosen, R. (2012). Anticipatory Systems: philosophical, mathematical, and methodological foundations. Springer, Berlin.
 
-* discussion of Rosen's (M,R) systems.
+* discussion of Rosen's Metabolic-Replication (M,R) systems.
 
 * theory of organismal sets and rejection of reductionism.
