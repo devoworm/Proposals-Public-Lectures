@@ -5,4 +5,4 @@ Rosen, R. (2012). Anticipatory Systems: philosophical, mathematical, and methodo
 
 * discussion of Rosen's (M,R) systems.
 
-* organismal sets? 
+* theory of organismal sets and rejection of reductionism.
