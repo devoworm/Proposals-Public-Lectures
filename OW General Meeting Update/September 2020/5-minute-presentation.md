@@ -2,7 +2,7 @@
   <img width=60% height=60% src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/OW%20General%20Meeting%20Update/September%202020/Slide1.png"><BR>
 </p>
 <p align="center">
-  <img width=60% height=60% src=" https://github.com/devoworm/Proposals-Public-Lectures/blob/master/OW%20General%20Meeting%20Update/September%202020/Slide1-5.png"><BR>
+  <img width=60% height=60% src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/OW%20General%20Meeting%20Update/September%202020/One-and-a-half.png"><BR>
 </p>
 <p align="center">
   <img width=60% height=60% src="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/OW%20General%20Meeting%20Update/September%202020/Slide2.png"><BR>
