@@ -22,9 +22,11 @@ In training DevoLearn’s deep-learning models on commonly available data, the m
 
 We should look for more datasets spread across different species which could be used for devolearn. Then we can split up the different models as:
 
-__Example:__  
-&nbsp&nbsp&nbsp    from devolearn.c_elegans import segmenter          ## species 1   
-&nbsp&nbsp&nbsp    from devolearn.zebra_fish import age_estimator     ## species 2  
+__Example:__   
+~~~
+from devolearn.c_elegans import segmenter          ## species 1   
+from devolearn.zebra_fish import age_estimator     ## species 2  
+~~~
 
 ## Online demos
 
