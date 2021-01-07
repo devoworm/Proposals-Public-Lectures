@@ -18,9 +18,7 @@ We used the simple train-test split approach while training the deep learning mo
 
 ## Adding more models
 
-Devolearn should also contain pre-trained deep-learning models from other species which are of high importance in developmental biology. 
-
-We should look for more datasets spread across different species which could be used for devolearn. Then we can split up the different models as:
+Devolearn should also contain pre-trained deep-learning models from other species which are of high importance in developmental biology. We can split up the different species as:
 
 __Example:__   
 ~~~
@@ -29,7 +27,7 @@ from devolearn.zebra_fish import age_estimator     ## species 2, this is just an
 ~~~
 
 ## Improving usability  
-As the library grows, we should have a better place to host proper documentation on gitbook or on a static website which could be named like devoworm.github.io/devolearn/docs. 
+As the library grows, we should have a better place to host proper documentation on a static website which could be named like devoworm.github.io/devolearn/docs. 
 
 Most importantly, we have to train devolearn’s deep-learning models on commonly available data, the more common the use case, the more potential users we get. 
 
