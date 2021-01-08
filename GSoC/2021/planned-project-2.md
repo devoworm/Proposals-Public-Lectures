@@ -1,3 +1,5 @@
+## _Bacillaria_ Non-neuronal Processes
+
 Aim: To study and analyse the features of Bacillaria Paradoxa to create Digital simulations of the genus _Bacillaria_
 
 Basic Introduction:   
