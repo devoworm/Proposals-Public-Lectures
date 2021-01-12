@@ -1,6 +1,7 @@
-# Upgrading DevoLearn 
+Upgrading DevoLearn 0.2.0: 
+Devolearn was created during Google Summer of Code 2020, and is now a standalone program (PyPi repository: https://pypi.org/project/devolearn/). DevoLearn is a pre-trained deep learning model for the segmentation of microscopy images. It is specialized for the analysis of 2-D slices of C. elegans embryogenesis, although it can be useful in the analysis of embryogenesis in other species. This project will focus on creating benchmarks for performance, and testing the model on a broad range of data sets. You goals will be to improve performance, enhance functionality (via a graphical user interface), and perhaps add additional pre-trained models to the DevoLearn library.  
 
-There would be 4 key elements in this project:
+## There would be 4 key elements in this project:
 * Improving the current models
 * Training and adding more useful models 
 * Improving usability
