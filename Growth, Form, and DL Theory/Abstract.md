@@ -1,6 +1,6 @@
-Morphogenetic Patterns and the Theory of Deep Learning
-Bradly Alicea, Mayukh Deb, Mainak Deb, Krishna Katyal
-DevoWorm Group, OpenWorm Foundation
+### Morphogenetic Patterns and the Theory of Deep Learning
+Bradly Alicea, Mayukh Deb, Mainak Deb, Krishna Katyal  
+DevoWorm Group, OpenWorm Foundation  
 
 Among the many recent advances in deep learning (DL) , one set of applications stands out: Generative Adversarial Networks [1] (GANs), a framework which uses existing data to generate new lifelike data [2]. Our goal is to propose a model of morphogenesis derived from the theory and mechanism behind deep neural networks. Relying upon the principle of computational equivalence [3], we can potentially uncover the universal elements of self-organization in a morphogenetic system[4]. Attempts at this using tools such as Cellular Automata (CAs) have yielded a means to generate patterns [5] but largely in a qualitative fashion. Connecting Neural Networks (NNs) to pattern-generating cellular automata [6] allows us to identify patterns that are generated. Generally, machine learning methods can enable image segmentation [7] and other types of data-driven discovery [8]. There is also a role for such methods in simulating development and other life-like phenomena [9, 10]. There is much potential for us to exploit deep generative networks in the service of understanding how these patterns are formed and self-organize in a wide range of naturalistic contexts.
 
