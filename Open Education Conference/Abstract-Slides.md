@@ -37,7 +37,7 @@ While Computational Biology is a fast moving field with a vast number of tools, 
   </CENTER>
 </P><P>
   <CENTER>
-<IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide8.png">
+<IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide-Eight.png">
   </CENTER>
 </P>
 <P>
@@ -45,3 +45,29 @@ While Computational Biology is a fast moving field with a vast number of tools, 
 <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide9.png">
   </CENTER>
 </P>
+<P>
+  <CENTER>
+<IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide11.png">
+  </CENTER>
+</P>
+<P>
+  <CENTER>
+<IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide10.png">
+  </CENTER>
+</P>
+<P>
+  <CENTER>
+<IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide11.5.png">
+  </CENTER>
+</P>
+<P>
+  <CENTER>
+<IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide12.png">
+  </CENTER>
+</P>
+<P>
+  <CENTER>
+<IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide13.png">
+  </CENTER>
+</P>
+  
