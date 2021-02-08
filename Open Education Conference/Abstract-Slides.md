@@ -57,7 +57,7 @@ While Computational Biology is a fast moving field with a vast number of tools, 
 </P>
 <P>
   <CENTER>
-<IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide11.5.png">
+<IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Open%20Education%20Conference/Slides/Slide-11.5.png">
   </CENTER>
 </P>
 <P>
