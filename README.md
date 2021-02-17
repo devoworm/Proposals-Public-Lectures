@@ -2,6 +2,8 @@
 
 ### This repository is for grant, paper, and internal OpenWorm proposal brainstorming.     
 
+* Euler Cycles for Life. [Biological version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Evolution%20of%20Development),  [Network Science version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Network%20Science).
+
 * Google Summer of Code proposals from (2017-2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/GSoC)
 
 * Google Season of Docs proposals from (2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/GSoD)
