@@ -2,7 +2,9 @@
 
 ### This repository is for grant, paper, and internal OpenWorm proposal brainstorming.     
 
-* Euler Cycles for Life. [Biological version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Evolution%20of%20Development),  [Network Science version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Network%20Science).
+* Euler Cycles for Life  [Biological version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Evolution%20of%20Development),  [Network Science version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Network%20Science).
+
+* Embryo Networks as Generative Divergent Integration  [link](https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Embryo%20Networks%20as%20Generative%20Divergent%20Integration/Abstract.md).
 
 * Google Summer of Code proposals from (2017-2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/GSoC)
 
