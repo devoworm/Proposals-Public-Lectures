@@ -6,3 +6,12 @@ DevoWormAI: [link](https://devoworm.github.io/DevoWormAi/index.html)
 
 Digital _Bacillaria_ project: [link](https://github.com/devoworm/Digital-Bacillaria)
 
+## Resources for further reading
+
+Raw video (microscopy) data  [link](https://www.mediafire.com/folder/reond44qfjcei/Documents)  
+
+Here are the tab-delimited versions of the data  [link](https://github.com/devoworm/Digital-Bacillaria/tree/master/Public%20Data)  
+
+Paper with analysis from 2019  [link](https://www.biorxiv.org/content/10.1101/2019.12.21.885897v1)  
+
+Recent presentation on Bacillaria movement  [link](https://docs.google.com/presentation/d/1PvT5krGIF4zkGgn4muzElYGxYjR9GS1pEGWpMLtgYYE/edit#slide=id.g9d435ed3aa_0_28)
