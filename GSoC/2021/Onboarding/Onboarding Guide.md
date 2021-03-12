@@ -49,10 +49,7 @@ __What can I do before GSoC?__
 You can start out by reading about the _C. elegans_ embryo, and then move on to either help us in improving our current models or add new ones. You can also help us solve some of the Github issues (if any) on the corresponding project boards. Please keep the mentors updated with your progress!
 
 #### Skills:
-PyTorch  
-Numpy/Pandas   
-openCV/imageio/FFMPEG tools  
-Proficiency in writing scalable and modular code  
+Experience or mastery of PyTorch, Numpy/Pandas, and OpenCV/Imageio/FFMPEG tools are desired. Proficiency in writing scalable and modular code  would be helpful.
 
 ### Project 3.2 - Digital Bacillaria
 You will be improving upon the Digital _Bacillaria_ project [link](https://github.com/devoworm/Digital-Bacillaria), which was started in the Summer of 2019. This year our main aim is to enhance the existing deep learning model. For the sake of uniformity, you might have to move the model from Tensorflow to PyTorch at first. You will be involved in pre-processing and analyzing microscopy videos from our database of _Bacillaria_ phenotype and movement.   
