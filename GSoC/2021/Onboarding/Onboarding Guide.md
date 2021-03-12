@@ -58,7 +58,21 @@ Proficiency in writing scalable and modular code
 You will be improving upon the Digital _Bacillaria_ project [link](https://github.com/devoworm/Digital-Bacillaria), which was started in the Summer of 2019. This year our main aim is to enhance the existing deep learning model. For the sake of uniformity, you might have to move the model from Tensorflow to PyTorch at first. You will be involved in pre-processing and analyzing microscopy videos from our database of _Bacillaria_ phenotype and movement.   
 
 __What can I do before GSoC?__   
-You can ask one of the mentors to direct you to the data source and you can start working on it. Please feel free to raise questions/discussions regarding your approach to the problem 
+You can ask one of the mentors to direct you to the data source and you can start working on it. Please feel free to raise questions/discussions regarding your approach to the problem. Check out some of our community references for a better ideas of how your project might fit into the organization. 
+
+DevoWormAI: [link](https://devoworm.github.io/DevoWormAi/index.html)
+
+Digital _Bacillaria_ project: [link](https://github.com/devoworm/Digital-Bacillaria)
+
+#### Resources for further reading
+
+Raw video (microscopy) data  [link](https://www.mediafire.com/folder/reond44qfjcei/Documents)  
+
+Here are the tab-delimited versions of the data  [link](https://github.com/devoworm/Digital-Bacillaria/tree/master/Public%20Data)  
+
+Paper with analysis from 2019  [link](https://www.biorxiv.org/content/10.1101/2019.12.21.885897v1)  
+
+Recent presentation on Bacillaria movement  [link](https://docs.google.com/presentation/d/1PvT5krGIF4zkGgn4muzElYGxYjR9GS1pEGWpMLtgYYE/edit#slide=id.g9d435ed3aa_0_28)
 
 #### Skills/requirements 
 PyTorch/Tensorflow (PyTorch will be preferred because all our other models are on that framework already)
@@ -68,8 +82,7 @@ General knowledge about Diatoms
 
 ### Project 3.3 - Digital Microsphere 
 This project will build upon the specialized microscopy techniques to develop a shell composed of projected microscopy images, arranged to represent the full external surface of a sphere. This will allow us to create an atlas of the embryo’s outer surface, which in some species (e.g. Axolotl) enables us to have a novel perspective on neural development. 
-
-In a nutshell, you’ll have to build a computer vision tool to visualize 3D embryo data. 
+You will build a computational tool to visualize these 4D data. 
 
 __What can I do before GSoC?__ 
 Build basic prototypes for this project and discuss about them with the mentors, then read these papers:
