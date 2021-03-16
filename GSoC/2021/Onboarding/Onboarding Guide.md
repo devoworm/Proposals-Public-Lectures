@@ -6,6 +6,10 @@
 
 ## What is Devoworm and Essential Links
 
+<P>
+    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/dw-logo-2020.png">
+  </P>
+
 [DevoWorm group website](https://devoworm.weebly.com/). Publications, Education, Essential Info, and More!  
 
 [DevoWorm Github repository](https://github.com/devoworm)  
@@ -14,9 +18,9 @@
 
 [DevoWorm Group open papers](https://github.com/devoworm/Group-Meetings/blob/master/README.md)
 
-[OpenWorm Foundation](http://openworm.org/)  
+[OpenWorm Foundation](http://openworm.org/)   
 
-OpenWorm Slack [Launchpass](https://launchpass.com/openworm)
+OpenWorm Slack [Launchpass](https://launchpass.com/openworm)  
 
 
 ## Introductory Slides
