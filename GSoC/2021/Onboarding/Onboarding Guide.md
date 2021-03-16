@@ -4,6 +4,7 @@
 [Introduction to the Organization and Open-source Contribution](#introductory-slides)  
 [Project Descriptions](#project-descriptions)  
 
+
 ## What is Devoworm and Essential Links
 
 <P>
@@ -14,21 +15,20 @@ The DevoWorm group is interested in Computational Developmental Biology, bridgin
 
 [DevoWorm group website](https://devoworm.weebly.com/). Publications, Education, Essential Info, and More!  
 
-[DevoWorm Github repository](https://github.com/devoworm)  
+[DevoWorm Github repository](https://github.com/devoworm). Get underneath the hood of our projects, proposals, and codebase.  
 
-[DevoLearn organization](https://github.com/devolearn)
+[DevoLearn organization](https://github.com/devolearn). Check out the DevoLearn pre-trained model, in addition to repos on various modeling, educational, and theoretical topics.   
+[DevoZoo data repository](https://devoworm.github.io/devozoo/index.html). Explore and analyze developmental data from a range of organisms and computational systems.    
 
-[DevoZoo data repository](https://devoworm.github.io/devozoo/index.html)
+[DevoWormAI model repository](https://devoworm.github.io/DevoWormAi/). Computational Modeling for a range of biological (developmental) datasets.
 
-[DevoWormAI model repository](https://devoworm.github.io/DevoWormAi/)
+[Issues Board for our weekly group meetings](https://github.com/devoworm/Group-Meetings/projects/1). Select an issue from the various interesting topics presented weekly.  
 
-[Issues Board for our weekly group meetings](https://github.com/devoworm/Group-Meetings/projects/1)  
+[DevoWorm Group open papers](https://github.com/devoworm/Group-Meetings/blob/master/README.md). Contribute to an upcoming publication!  
 
-[DevoWorm Group open papers](https://github.com/devoworm/Group-Meetings/blob/master/README.md)
+[OpenWorm Foundation](http://openworm.org/). Modeling the Worm. On the Web.  
 
-[OpenWorm Foundation](http://openworm.org/)   
-
-OpenWorm Slack [Launchpass](https://launchpass.com/openworm)  
+OpenWorm Slack [Launchpass](https://launchpass.com/openworm). Join our Slack team!  
 
 
 ## Introductory Slides
