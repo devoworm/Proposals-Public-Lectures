@@ -1,8 +1,8 @@
 ## An introduction to open-source contribution and our organization
-
-[What is DevoWorm and Essential Links](#essential links)
-[Introduction to the Organization and Open-source Contribution](#introductory-slides)
-[Project Descriptions](#project-descriptions)
+  
+[What is DevoWorm and Essential Links](#what-is-DevoWorm--essential-links)  
+[Introduction to the Organization and Open-source Contribution](#introductory-slides)  
+[Project Descriptions](#project-descriptions)  
 
 ## What is Devoworm -- Essential Links
 
