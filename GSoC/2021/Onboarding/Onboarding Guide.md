@@ -10,9 +10,17 @@
     <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/dw-logo-2020.png">
   </P>
 
+The DevoWorm group is interested in Computational Developmental Biology, bridging the gap between Developmental Biology, Theoretical Biology, and Computational Biology. We are interested in a wide range of topics, including: Machine Learning/Deep Learning, Microscopy, Biological Modeling, Embryogenesis, and more! Take look at the list of links below to find your way around our group.
+
 [DevoWorm group website](https://devoworm.weebly.com/). Publications, Education, Essential Info, and More!  
 
 [DevoWorm Github repository](https://github.com/devoworm)  
+
+[DevoLearn organization](https://github.com/devolearn)
+
+[DevoZoo data repository](https://devoworm.github.io/devozoo/index.html)
+
+[DevoWormAI model repository](https://devoworm.github.io/DevoWormAi/)
 
 [Issues Board for our weekly group meetings](https://github.com/devoworm/Group-Meetings/projects/1)  
 
