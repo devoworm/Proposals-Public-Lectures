@@ -1,30 +1,22 @@
 ## An introduction to open-source contribution and our organization
   
-[What is DevoWorm and Essential Links](#what-is-DevoWorm--essential-links)  
+[What is DevoWorm and Essential Links](#what-is-DevoWorm-and-essential-links)  
 [Introduction to the Organization and Open-source Contribution](#introductory-slides)  
 [Project Descriptions](#project-descriptions)  
 
-## What is Devoworm -- Essential Links
+## What is Devoworm and Essential Links
 
+[DevoWorm group website](https://devoworm.weebly.com/). Publications, Education, Essential Info, and More!  
 
+[DevoWorm Github repository](https://github.com/devoworm)  
 
+[Issues Board for our weekly group meetings](https://github.com/devoworm/Group-Meetings/projects/1)  
 
+[DevoWorm Group open papers](https://github.com/devoworm/Group-Meetings/blob/master/README.md)
 
+[OpenWorm Foundation](http://openworm.org/)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+OpenWorm Slack [Launchpass](https://launchpass.com/openworm)
 
 
 ## Introductory Slides
@@ -68,6 +60,7 @@
     <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/e6ac0abf88b722e784b3b5be63d9b2f7549b2adb/GSoC/2021/Onboarding/Media%20Assets/GSOC%202021.013.png">
   </CENTER>
   </P>
+
 
 ## Project Descriptions
 
