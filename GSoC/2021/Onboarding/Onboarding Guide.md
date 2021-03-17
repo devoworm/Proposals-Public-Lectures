@@ -3,7 +3,7 @@
 [What is DevoWorm and Essential Links](#what-is-DevoWorm-and-essential-links)  
 [Introduction to the Organization and Open-source Contribution](#introductory-slides)  
 [Project Descriptions](#project-descriptions)  
-[Links to Model Organism Biology](#model-organism-biology)
+[Links to Model Organism Biology](#links-to-model-organism-biology)
 
 ## What is Devoworm and Essential Links
 
