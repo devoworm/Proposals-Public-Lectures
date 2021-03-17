@@ -3,7 +3,7 @@
 [What is DevoWorm and Essential Links](#what-is-DevoWorm-and-essential-links)  
 [Introduction to the Organization and Open-source Contribution](#introductory-slides)  
 [Project Descriptions](#project-descriptions)  
-
+[Links to Model Organism Biology](#model-organism-biology)
 
 ## What is Devoworm and Essential Links
 
@@ -147,3 +147,10 @@ Yes, but it will depend on the type of PRs made. We will prioritize skills and e
 __Can I work on these projects even if I don’t get into GSoC?__ 
 Of course, we’ll be happy to help.  
 
+## Links to Model Organism Biology
+
+Basic _C. elegans_ biology and microscopy [link](https://devoworm.github.io/)
+
+Micrographs of an adult _C. elegans_ brain (Connectome) [link](https://www.youtube.com/watch?v=TOIjk6rUais)
+
+Stephen Larson (OpenWorm): A worm is our best bet to unlock the secrets of the brain. [link](https://www.youtube.com/watch?v=RY2-0-QsuTE)
