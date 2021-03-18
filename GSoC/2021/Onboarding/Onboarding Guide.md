@@ -1,6 +1,6 @@
 ## An introduction to open-source contribution and our organization
   
-[What is DevoWorm and Essential Links](#what-is-DevoWorm-and-essential-links)  
+[What is OpenWorm, DevoWorm, and Essential Links](#what-is-OpenWorm-Foundation-DevoWorm-group-and-essential-links)  
 [Introduction to the Organization and Open-source Contribution](#introductory-slides)  
 [Project Descriptions](#project-descriptions)  
 [Links to Model Organism Biology](#links-to-model-organism-biology)
@@ -14,9 +14,9 @@
     <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/20e3e31630f3baccb8a93d00ab75b2c2_original.png">
   </P>
 
-The OpenWorm Foundation is building the first digital life form in an open-source fashion. Links:
+The OpenWorm Foundation is building the first digital life form in an open-source fashion. 
 
-OpenWorm website [URL](http://openworm.org/) and Slack [Launchpass](https://launchpass.com/openworm). Join our Slack team!  
+Join our Slack team and see the big picture! OpenWorm website [URL](http://openworm.org/), OpenWorm Github [Organization](https://github.com/openworm) and Slack [Launchpass](https://launchpass.com/openworm). 
 
 OpenWorm Open House materials: videos, essential readings, and more! [YouTube playlist](https://www.youtube.com/playlist?list=PL8ACJC0fGE7Ax7Yjj-PIYimZMYToVE6D4) [Supplemental Materials: Figshare](https://figshare.com/articles/dataset/OpenWorm_Open_House_Supplemental_Materials/4331036)
 
