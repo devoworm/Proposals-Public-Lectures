@@ -3,7 +3,7 @@
 [What is OpenWorm, DevoWorm, and Essential Links](#what-is-the-OpenWorm-Foundation-the-DevoWorm-group-and-essential-links)  
 [Introduction to the Organization and Open-source Contribution](#introductory-slides)  
 [Project Descriptions](#project-descriptions)     
-[Good First Issues and General FAQ](#good-first-issues-and-general FAQ)    
+[Good First Issues and General FAQ](#good-first-issues-and-general-FAQ)    
 [Links to Model Organism Biology](#links-to-model-organism-biology)    
    
 
