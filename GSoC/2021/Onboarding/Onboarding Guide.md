@@ -1,10 +1,10 @@
 ## An introduction to open-source contribution and our organization
   
-[What is OpenWorm, DevoWorm, and Essential Links](#what-is-OpenWorm-Foundation-DevoWorm-group-and-essential-links)  
+[What is OpenWorm, DevoWorm, and Essential Links](#what-is-the-OpenWorm-Foundation-the-DevoWorm-group-and-essential-links)  
 [Introduction to the Organization and Open-source Contribution](#introductory-slides)  
 [Project Descriptions](#project-descriptions)  
 [Links to Model Organism Biology](#links-to-model-organism-biology)
-[]()
+[Good First Issues and General FAQ](#good-first-issues-general FAQ)
 
 ## What is the OpenWorm Foundation, the Devoworm group, and Essential Links
 
@@ -145,6 +145,11 @@ Crawford-Young, S., Dittapongpitch, S., Gordon, R., and Harrington, K. (2018). [
 Handling higher dimensional microscopy data (preferably also creating an API to load them as tensors for computation on the GPU)  
 Building an intuitive GUI (or a web interface)   
 Feature extraction (canny edges/thresholding/denoising)  
+
+## Good First Issues and General FAQ
+
+### Good First Issues
+Coming soon!
 
 ### General FAQ
 __Can I send my proposal to the mentors for review?__
