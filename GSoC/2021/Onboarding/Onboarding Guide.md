@@ -2,9 +2,9 @@
   
 [What is OpenWorm, DevoWorm, and Essential Links](#what-is-the-OpenWorm-Foundation-the-DevoWorm-group-and-essential-links)  
 [Introduction to the Organization and Open-source Contribution](#introductory-slides)  
-[Project Descriptions](#project-descriptions)   
-[Links to Model Organism Biology](#links-to-model-organism-biology)  
-[Good First Issues and General FAQ](#good-first-issues-general FAQ)   
+[Project Descriptions](#project-descriptions)     
+[Links to Model Organism Biology](#links-to-model-organism-biology)    
+[Good First Issues and General FAQ](#good-first-issues-and-general FAQ)     
 
 ## What is the OpenWorm Foundation, the Devoworm group, and Essential Links
 
@@ -171,7 +171,7 @@ Yes, but it will depend on the type of PRs made. We will prioritize skills and e
 __Can I work on these projects even if I don’t get into GSoC?__ 
 Of course, we’ll be happy to help.  
 
-## Links to Model Organism Biology
+#### Links to Model Organism Biology
 
 Basic _C. elegans_ biology and microscopy [link](https://devoworm.github.io/)
 
