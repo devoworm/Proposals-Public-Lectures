@@ -21,13 +21,11 @@ OpenWorm website [URL](http://openworm.org/) and Slack [Launchpass](https://laun
 OpenWorm Open House materials: videos, essential readings, and more! [YouTube playlist](https://www.youtube.com/playlist?list=PL8ACJC0fGE7Ax7Yjj-PIYimZMYToVE6D4) [Supplemental Materials: Figshare](https://figshare.com/articles/dataset/OpenWorm_Open_House_Supplemental_Materials/4331036)
 
 <P>
-    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/20e3e31630f3baccb8a93d00ab75b2c2_original.png">
-  </P>
-[OpenWorm, model realism, and the truth](https://github.com/devoworm/ALIFE-2020/blob/master/OpenWorm/OpenWorm%2C%20Model%20Realism%2C%20and%20the%20Truth.md)! As seen at [Artificial Life 2020](https://alife.org/conference/alife-2020/).
-
-<P>
     <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/Slide--1.png">
   </P>
+  
+[OpenWorm, model realism, and the truth](https://github.com/devoworm/ALIFE-2020/blob/master/OpenWorm/OpenWorm%2C%20Model%20Realism%2C%20and%20the%20Truth.md)! As seen at [Artificial Life 2020](https://alife.org/conference/alife-2020/).
+
   
 ### DevoWorm group
 
