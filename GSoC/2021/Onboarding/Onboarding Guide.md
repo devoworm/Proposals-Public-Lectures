@@ -174,6 +174,10 @@ Of course, we’ll be happy to help.
 
 ## Links to Model Organism Biology
 
+<P>
+    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/c-elegans.gif">
+  </P>
+
 Basic _C. elegans_ biology and microscopy [link](https://devoworm.github.io/)
 
 Micrographs of an adult _C. elegans_ brain (Connectome) [link](https://www.youtube.com/watch?v=TOIjk6rUais)
