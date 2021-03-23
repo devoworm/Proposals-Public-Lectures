@@ -182,4 +182,30 @@ Basic _C. elegans_ biology and microscopy [link](https://devoworm.github.io/)
 
 Micrographs of an adult _C. elegans_ brain (Connectome) [link](https://www.youtube.com/watch?v=TOIjk6rUais)
 
-Stephen Larson (OpenWorm): A worm is our best bet to unlock the secrets of the brain. [link](https://www.youtube.com/watch?v=RY2-0-QsuTE)
+Stephen Larson (OpenWorm): A worm is our best bet to unlock the secrets of the brain. [link](https://www.youtube.com/watch?v=RY2-0-QsuTE)  
+
+<P>
+    <IMG align="center" height = "50%" width = "50%" SRC="https://user-images.githubusercontent.com/19001437/57882552-960c8900-77e9-11e9-9f10-9ab687f6391e.jpg">
+  </P>
+
+Diatoms in the Tree of Life [link](http://tolweb.org/Diatoms/)
+
+Introduction to Diatoms (Thomas Harbich) [link](https://diatoms.de/en/)
+
+The Trouble with Life in Glass Houses (Scientific American) [link](https://blogs.scientificamerican.com/artful-amoeba/diatoms-or-the-trouble-with-life-in-glass-houses/)
+
+<P>
+    <IMG align="center" height = "50%" width = "50%" SRC="---">
+  </P>
+
+
+
+
+
+
+__Datasets__  
+DevoZoo (datasets from multiple species)  [link](https://devoworm.github.io/devozoo/index.html)  
+
+OpenWorm Movement Database (_C. elegans_ movemenbt behavior)  [link](http://movement.openworm.org/)  
+
+
