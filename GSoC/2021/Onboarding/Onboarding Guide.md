@@ -195,13 +195,12 @@ Introduction to Diatoms (Thomas Harbich) [link](https://diatoms.de/en/)
 The Trouble with Life in Glass Houses (Scientific American) [link](https://blogs.scientificamerican.com/artful-amoeba/diatoms-or-the-trouble-with-life-in-glass-houses/)
 
 <P>
-    <IMG align="center" height = "50%" width = "50%" SRC="---">
+    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/6.png">
   </P>
 
+Introduction to Axolotls [link](https://www.axolotl.org/)
 
-
-
-
+Axolotl Development [link](https://embryology.med.unsw.edu.au/embryology/index.php/Axolotl_Development)  
 
 __Datasets__  
 DevoZoo (datasets from multiple species)  [link](https://devoworm.github.io/devozoo/index.html)  
