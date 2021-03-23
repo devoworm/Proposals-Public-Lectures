@@ -175,7 +175,7 @@ Of course, we’ll be happy to help.
 ## Links to Model Organism Biology
 
 <P>
-    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/c-elegans.gif">
+    <IMG align="center" height = "25%" width = "25%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/c-elegans.gif">
   </P>
 
 Basic _C. elegans_ biology and microscopy [link](https://devoworm.github.io/)
@@ -185,7 +185,7 @@ Micrographs of an adult _C. elegans_ brain (Connectome) [link](https://www.youtu
 Stephen Larson (OpenWorm): A worm is our best bet to unlock the secrets of the brain. [link](https://www.youtube.com/watch?v=RY2-0-QsuTE)  
 
 <P>
-    <IMG align="center" height = "50%" width = "50%" SRC="https://user-images.githubusercontent.com/19001437/57882552-960c8900-77e9-11e9-9f10-9ab687f6391e.jpg">
+    <IMG align="center" height = "25%" width = "25%" SRC="https://user-images.githubusercontent.com/19001437/57882552-960c8900-77e9-11e9-9f10-9ab687f6391e.jpg">
   </P>
 
 Diatoms in the Tree of Life [link](http://tolweb.org/Diatoms/)
@@ -195,7 +195,7 @@ Introduction to Diatoms (Thomas Harbich) [link](https://diatoms.de/en/)
 The Trouble with Life in Glass Houses (Scientific American) [link](https://blogs.scientificamerican.com/artful-amoeba/diatoms-or-the-trouble-with-life-in-glass-houses/)
 
 <P>
-    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/6.png">
+    <IMG align="center" height = "25%" width = "25%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/6.png">
   </P>
 
 Introduction to Axolotls [link](https://www.axolotl.org/)
