@@ -202,9 +202,11 @@ Introduction to Axolotls [link](https://www.axolotl.org/)
 
 Axolotl Development [link](https://embryology.med.unsw.edu.au/embryology/index.php/Axolotl_Development)  
 
-__Biological Datasets__    
+## Biological Datasets    
 DevoZoo (datasets from multiple species)  [link](https://devoworm.github.io/devozoo/index.html)  
 
 OpenWorm Movement Database (_C. elegans_ movemenbt behavior)  [link](http://movement.openworm.org/)  
 
+__Types of Biological Analysis__
+Some of the biological analyses utilized using our data extraction techniques and secondary data sets include temporal analysis, network science, and topological data analysis. We often discuss these topics at our weekly meetings. We also use data acquisition to inform theoretical models and bui;d simulations of developmental processes.
 
