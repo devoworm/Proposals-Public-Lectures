@@ -106,6 +106,12 @@ You can start out by reading about the _C. elegans_ embryo, and then move on to 
 #### Skills:
 Experience or mastery of PyTorch, Numpy/Pandas, and OpenCV/Imageio/FFMPEG tools are desired. Proficiency in writing scalable and modular code  would be helpful.
 
+#### Resources for further reading
+
+EPIC Dataset [image data](https://epic.gs.washington.edu/)   
+
+Processed _C. elegans_ Developmental Data [DevoWorm Github](https://github.com/devoworm/DevoWorm)   
+
 ### Project 3.2 - Digital Bacillaria
 You will be improving upon the Digital _Bacillaria_ project [link](https://github.com/devoworm/Digital-Bacillaria), which was started in the Summer of 2019. This year our main aim is to enhance the existing deep learning model. For the sake of uniformity, you might have to move the model from Tensorflow to PyTorch at first. You will be involved in pre-processing and analyzing microscopy videos from our database of _Bacillaria_ phenotype and movement.   
 
@@ -206,7 +212,7 @@ Axolotl Development [link](https://embryology.med.unsw.edu.au/embryology/index.p
 ## Biological Datasets    
 DevoZoo (datasets from multiple species)  [link](https://devoworm.github.io/devozoo/index.html)  
 
-OpenWorm Movement Database (_C. elegans_ movemenbt behavior)  [link](http://movement.openworm.org/)  
+OpenWorm Movement Database (_C. elegans_ movement behavior)  [link](http://movement.openworm.org/)  
 
 __Types of Biological Analysis__
 Some of the biological analyses utilized using our data extraction techniques and secondary data sets include temporal analysis, network science, and topological data analysis. We often discuss these topics at our weekly meetings. We also use data acquisition to inform theoretical models and bui;d simulations of developmental processes.
