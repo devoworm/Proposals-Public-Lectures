@@ -29,7 +29,7 @@ OpenWorm Open House materials: videos, essential readings, and more! [YouTube pl
 [OpenWorm, model realism, and the truth](https://github.com/devoworm/ALIFE-2020/blob/master/OpenWorm/OpenWorm%2C%20Model%20Realism%2C%20and%20the%20Truth.md)! As seen at [Artificial Life 2020](https://alife.org/conference/alife-2020/).
 
 <P>
-    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/github-tuorial.png">
+    <IMG align="center" height = "25%" width = "25%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/github-tuorial.png">
   </P>
   
 Need to get up to speed on Github and Version Control? [Here is a tutorial](http://voyteklab.com/git/git-primer) for you.
