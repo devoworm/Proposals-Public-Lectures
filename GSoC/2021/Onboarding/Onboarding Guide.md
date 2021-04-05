@@ -217,6 +217,8 @@ Introduction to Axolotls [link](https://www.axolotl.org/)
 
 Axolotl Development [link](https://embryology.med.unsw.edu.au/embryology/index.php/Axolotl_Development)  
 
+Axolotl as a Model of Regeneration [link](http://www.devbio.biology.gatech.edu/vertebrate-development/amphibians/regenerative-and-developmental-postembryonic-mechanisms-of-axolotls/)
+
 ## Biological Datasets    
 DevoZoo (datasets from multiple species)  [link](https://devoworm.github.io/devozoo/index.html)  
 
