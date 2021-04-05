@@ -28,7 +28,12 @@ OpenWorm Open House materials: videos, essential readings, and more! [YouTube pl
   
 [OpenWorm, model realism, and the truth](https://github.com/devoworm/ALIFE-2020/blob/master/OpenWorm/OpenWorm%2C%20Model%20Realism%2C%20and%20the%20Truth.md)! As seen at [Artificial Life 2020](https://alife.org/conference/alife-2020/).
 
+<P>
+    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/github-tuorial.png">
+  </P>
   
+Need to get up to speed on Github and Version Control? [Here is a tutorial](http://voyteklab.com/git/git-primer) for you.
+
 ### DevoWorm group
 
 <P>
@@ -225,4 +230,15 @@ DevoZoo (datasets from multiple species)  [link](https://devoworm.github.io/devo
 OpenWorm Movement Database (_C. elegans_ movement behavior)  [link](http://movement.openworm.org/)  
 
 __Types of Biological Analysis__
-Some of the biological analyses utilized using our data extraction techniques and secondary data sets include temporal analysis, network science, and topological data analysis. We often discuss these topics at our weekly meetings. We also use data acquisition to inform theoretical models and bui;d simulations of developmental processes.  
+Some of the biological analyses utilized using our data extraction techniques and secondary data sets include temporal analysis, network science, and quantitative cross-species comparative analysis. We often discuss these topics at our weekly meetings. We also use data acquisition to inform theoretical models and build simulations of developmental processes.  
+
+__Sample papers__  
+Data-theoretical synthesis: Alicea, B., Gordon, R., and Portegys, T.E. (2021). [Data-theoretical Synthesis of the Early Developmental Process](https://www.biorxiv.org/content/10.1101/282004v4). _Neuroinformatics_, doi:10.1007/s12021-020-09508-1.
+
+Network Science: Alicea, B. and Gordon R. (2018). [Cell Differentiation Processes as Spatial Networks: identifying four-dimensional structure in embryogenesis](https://peerj.com/preprints/26587/). _BioSystems_, 173, 235-246.
+
+Quantitative cross-species comparative analysis: Alicea, B. and Gordon, R. (2016). [Quantifying Mosaic Development: Towards an Evo-Devo Postmodern Synthesis of the Evolution of Development Via Differentiation Trees of Embryos](http://www.mdpi.com/2079-7737/5/3/33). _Biology_, 5(3), 33.
+
+Temporal analysis: Alicea, B., Parent, J., and Singh, U. (2021). [Periodicity in the Embryo: emergence of order in space, diffusion of order in time](https://www.biorxiv.org/content/10.1101/2021.01.06.425581v2). _Biosystems_, 204, 104405.   
+
+Developmental Connectomics: Alicea, B. (2017). [The Emergent Connectome in Caenorhabditis elegans Embryogenesis](https://doi.org/10.1101/146035). _BioSystems_, 173, 247-255.  
