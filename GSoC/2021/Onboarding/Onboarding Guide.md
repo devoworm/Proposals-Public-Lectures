@@ -163,15 +163,19 @@ Coming soon!
 __Can I send my proposal to the mentors for review?__
 Yes, we’ll be happy to review it. But it might take a while depending on our schedules. 
 
+__How do I structure my proposal?__
+1) start with an Introduction that states your project and proposed approach clearly.    
+
+2) the next section should contain some background information and detail on how you plan to address the problem. This includes information such as what algorithm you will use, what innovations you will make, and what the finished product will look like).    
+
+3) finally, you will want to build a week-by-week schedule where you propose what issue you will tackle and in what order. This last section is usually the hardest part to master, so pay particular attention to detail here.  
+
 __I am a beginner to developmental biology, where should I start?__ 
 
-Check out these resources:  
-[WormBook](http://www.wormbook.org/)   
-[EPIC Dataset](https://epic.gs.washington.edu/)  
-[Worm Atlas](https://www.wormatlas.org/embryo/introduction/EIntroframeset.html)  
+See our Links to Model Organism Biology section.  
 
 __I am a beginner, how do I get started?__
-Just ping one of the mentors, and we’ll help you get started.   
+Just message one of the mentors in Slack, and we’ll help you get started.   
 
 __Will my PRs/contributions count?__  
 Yes, but it will depend on the type of PRs made. We will prioritize skills and experience over the number of PRs made.  
@@ -190,6 +194,10 @@ Basic _C. elegans_ biology and microscopy [link](https://devoworm.github.io/)
 Micrographs of an adult _C. elegans_ brain (Connectome) [link](https://www.youtube.com/watch?v=TOIjk6rUais)
 
 Stephen Larson (OpenWorm): A worm is our best bet to unlock the secrets of the brain. [link](https://www.youtube.com/watch?v=RY2-0-QsuTE)  
+
+Worm Atlas [link](https://www.wormatlas.org/embryo/introduction/EIntroframeset.html)   
+
+WormBook [link](http://www.wormbook.org/)   
 
 <P>
     <IMG align="center" height = "25%" width = "25%" SRC="https://user-images.githubusercontent.com/19001437/57882552-960c8900-77e9-11e9-9f10-9ab687f6391e.jpg">
@@ -215,5 +223,4 @@ DevoZoo (datasets from multiple species)  [link](https://devoworm.github.io/devo
 OpenWorm Movement Database (_C. elegans_ movement behavior)  [link](http://movement.openworm.org/)  
 
 __Types of Biological Analysis__
-Some of the biological analyses utilized using our data extraction techniques and secondary data sets include temporal analysis, network science, and topological data analysis. We often discuss these topics at our weekly meetings. We also use data acquisition to inform theoretical models and bui;d simulations of developmental processes.
-
+Some of the biological analyses utilized using our data extraction techniques and secondary data sets include temporal analysis, network science, and topological data analysis. We often discuss these topics at our weekly meetings. We also use data acquisition to inform theoretical models and bui;d simulations of developmental processes.  
