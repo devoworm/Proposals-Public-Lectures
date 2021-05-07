@@ -1,6 +1,7 @@
 # Proposals  
 
 ### This repository is for grant, paper, and internal OpenWorm proposal brainstorming.     
+* Developing the (Virtual) Worm: via data-theoretical synthesis  [link](https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Virtual%20Worm%202020/Slides.md)
 
 * Euler Cycles for Life  [Biological version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Evolution%20of%20Development),  [Network Science version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Network%20Science).
 
@@ -27,5 +28,7 @@
 * "On Kluginess, Speed, and Form" lecture (2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/On%20Kluginess%2C%20Speed%2C%20and%20Form)
 
 * "OpenWorm-DevoWorm Curriculum Development" project overview for the Mozilla Open Leaders program (2019). [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/OW-DW%20Curriculum)
+
+* assorted Category Theory work [link](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Category%20Theory%20in%20Developmental%20Biology)
 
 * assorted grant and event proposals. [link](https://devoworm.weebly.com/publications.html)
