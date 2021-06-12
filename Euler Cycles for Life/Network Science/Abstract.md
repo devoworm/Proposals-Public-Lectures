@@ -3,3 +3,52 @@
 The evolutionary transition to multicellular life in the form of cellular aggregates and embryos is marked by a need to form internal networks for oxygen and nutrient transfer between cells. Intercellular networks can take the form of vascular networks, but even this relies on the configuration of cells in morphologies of a particular shape. How does this requirement constrain evolutionary and developmental-related changes? To answer this, we can utilize a tool from graph theory: Euler paths. Consider that multicellular aggregates form a unipartite graph where each edge represents the boundary between two cells. When these networks represent a complete Euler cycle, then they can be said to be equistatic, meaning that each edge is both permeable and representative of an equal number of transfer points. We speculate that equistatic networks are representative of single multicellular entities (or modules) that emerge in the development and evolution of such structures. This can lead to one of two outcomes. In one case, Euler completeness is an upper bound to complexity of phenotype in which non-complete parts of the cycle non-functional. The consequence is a meta-replication event, where our unipartite network becomes a bipartite network. Further deformation of the network topology by migrating the position of nodes can be used to simulate the emergence of highly complex and asymmetric phenotypes. We will compare these results with work on embryo networks and other generative network structures.
 
 ### Continue with paper.
+
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide1.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide2.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide3.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide4.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide5.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide6.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide7.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide8.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide9.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide10.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide11.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide12.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide13.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide14.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide15.png">
+    </P>
+<P align=center>
+  <IMG SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Euler%20Cycles%20for%20Life/Network%20Science/Slide16.png">
+    </P>
