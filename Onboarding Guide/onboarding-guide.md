@@ -82,12 +82,6 @@ The DevoWorm group is interested in Computational Developmental Biology, bridgin
     <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/e6ac0abf88b722e784b3b5be63d9b2f7549b2adb/GSoC/2021/Onboarding/Media%20Assets/GSOC%202021.008.png">
   </P>
    <P>
-    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/e6ac0abf88b722e784b3b5be63d9b2f7549b2adb/GSoC/2021/Onboarding/Media%20Assets/GSOC%202021.009.png">
-  </P>
-  <P>
-    <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/e6ac0abf88b722e784b3b5be63d9b2f7549b2adb/GSoC/2021/Onboarding/Media%20Assets/GSOC%202021.010.png">
-  </P>
-   <P>
     <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/e6ac0abf88b722e784b3b5be63d9b2f7549b2adb/GSoC/2021/Onboarding/Media%20Assets/GSOC%202021.011.png">
   </P>
    <P>
