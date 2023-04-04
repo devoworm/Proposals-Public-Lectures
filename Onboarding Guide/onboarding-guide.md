@@ -19,7 +19,7 @@ The OpenWorm Foundation is building the first digital life form in an open-sourc
 
 Join our Slack team and see the big picture! OpenWorm website [URL](http://openworm.org/), OpenWorm Github [Organization](https://github.com/openworm) and Slack [Launchpass](https://launchpass.com/openworm). 
 
-OpenWorm Open House materials: videos, essential readings, and more! [YouTube playlist](https://www.youtube.com/playlist?list=PL8ACJC0fGE7Ax7Yjj-PIYimZMYToVE6D4) [Supplemental Materials: Figshare](https://figshare.com/articles/dataset/OpenWorm_Open_House_Supplemental_Materials/4331036)
+OpenWorm Open House materials: videos, essential readings, and more! Video playlist [YouTube](https://www.youtube.com/playlist?list=PL8ACJC0fGE7Ax7Yjj-PIYimZMYToVE6D4) and Supplemental Materials [Figshare](https://figshare.com/articles/dataset/OpenWorm_Open_House_Supplemental_Materials/4331036)
 
 <P>
     <IMG align="center" height = "50%" width = "50%" SRC="https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Media%20Assets/Slide--1.png">
@@ -95,7 +95,7 @@ The DevoWorm group is interested in Computational Developmental Biology, bridgin
 ## Good First Issues and General FAQ
 
 ### Good First Issues
-Coming soon!
+We currently have open issues in the [DevoLearn](https://github.com/DevoLearn/devolearn/issues), [DevoGraph](https://github.com/DevoLearn/DevoGraph/issues), and [DevoLearn community](https://github.com/DevoLearn/Community-Board/projects/1) repositories. For non-programming issues, check out our [major tasks](https://github.com/devoworm/Group-Meetings/projects/1) board.
 
 ### General FAQ
 __I am a beginner to developmental biology, where should I start?__ 
