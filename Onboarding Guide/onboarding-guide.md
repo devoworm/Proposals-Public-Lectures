@@ -50,7 +50,7 @@ The DevoWorm group is interested in Computational Developmental Biology, bridgin
 
 [DevoWormAI model repository](https://devoworm.github.io/DevoWormAi/). Computational Modeling for a range of biological (developmental) datasets.
 
-[Issues Board for our weekly group meetings](https://github.com/devoworm/Group-Meetings/projects/1). Select an issue from the various interesting topics presented weekly.  
+[Media and Public Lectures](https://devoworm.weebly.com/media-and-public-lectures.html) for conference presentations, tutorials, and project updates.
 
 [DevoWorm Group open papers](https://github.com/devoworm/Group-Meetings/blob/master/README.md). Contribute to an upcoming publication!  
 
