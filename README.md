@@ -1,6 +1,8 @@
-# Proposals  
+## Presentations and Proposals
+Please visit the [Media and Public Lectures](https://devoworm.weebly.com/media-and-public-lectures.html) section of the DevoWorm lecture for the latest presentations. 
 
 ### This repository is for grant, paper, and internal OpenWorm proposal brainstorming, in addition to delivered talks.   
+
 * Developing the (Virtual) Worm: via data-theoretical synthesis  [link](https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Virtual%20Worm%202020/Slides.md)
 
 * Euler Cycles for Life  [Biological version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Evolution%20of%20Development),  [Network Science version](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life/Network%20Science).
