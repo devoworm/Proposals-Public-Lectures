@@ -152,6 +152,10 @@ DevoZoo (datasets from multiple species)  [link](https://devoworm.github.io/devo
 
 OpenWorm Movement Database (_C. elegans_ movement behavior)  [link](http://movement.openworm.org/)  
 
+EPIC Dataset [image data](https://epic.gs.washington.edu/)   
+
+Processed _C. elegans_ Developmental Data [DevoWorm Github](https://github.com/devoworm/DevoWorm)   
+
 __Types of Biological Analysis__
 Some of the biological analyses utilized using our data extraction techniques and secondary data sets include temporal analysis, network science, and quantitative cross-species comparative analysis. We often discuss these topics at our weekly meetings. We also use data acquisition to inform theoretical models and build simulations of developmental processes.  
 
